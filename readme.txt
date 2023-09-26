@@ -1,7 +1,8 @@
-readme.txt
+# Earth-It
 
-Earth-It
+This project is from my freshman fall. It is the first large coding project I had taken on. File structure is all over the place :)
 
+## Description
 Earth-It is an Online Multiplayer 2d Sandbox game, similar to Terraria or Minecraft.
 Within the game, you can mine, build, craft and explore! The world is huge and by
 exploring the caves, you can find iron, coal, and diamonds. With these items, craft
